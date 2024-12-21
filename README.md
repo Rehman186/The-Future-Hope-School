@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to [Your School Name]</h1>
+        <h1>Welcome to [The-Future-Hope-School]</h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
